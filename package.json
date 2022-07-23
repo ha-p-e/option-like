@@ -1,0 +1,24 @@
+{
+    "name": "option-like",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "jest"
+    },
+    "keywords": [
+        "typescript",
+        "option",
+        "maybe",
+        "functional-programming"
+    ],
+    "author": "ha-p-e",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/jest": "^28.1.4",
+        "jest": "^28.1.2",
+        "ts-jest": "^28.0.5",
+        "typescript": "^4.7.4"
+    }
+}
